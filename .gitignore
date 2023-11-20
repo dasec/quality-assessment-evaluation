@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+local
+.editorconfig
+.flake8
+.pylintrc
+.style.yapf
