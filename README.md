@@ -16,3 +16,5 @@ python example.py
 ```
 
 There are various CLI options in the example, see `python example.py --help`.
+
+A related "Face Image Quality Assessment Toolkit (fiqat)" with various additional features can be found here: <https://share.nbl.nislab.no/g03-03-sample-quality/face-image-quality-toolkit>
